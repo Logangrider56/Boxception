@@ -1,0 +1,32 @@
+
+h1{
+    text-align: center;
+}
+
+
+div{
+    margin: auto;
+}
+
+#one{
+    height: 500px;
+    width: 500px;
+    border: 3px solid black;
+    background-color: red;
+}
+
+#two{
+    margin-top: 100px;
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    background-color: blue;
+}
+#three{
+
+margin-top: 100px;
+height: 100px;
+width: 100px;
+border: 3px solid black;
+background-color: white;
+}
